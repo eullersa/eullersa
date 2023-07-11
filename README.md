@@ -6,3 +6,4 @@
 - <img style="height: auto; width: 30px;" src="images/GraphQL.png" />&nbsp;&nbsp;&nbsp;GraphQL
 - <img style="height: auto; width: 30px;" src="images/Fastify.png" />&nbsp;&nbsp;&nbsp;Fastify
 - <img style="height: auto; width: 30px;" src="images/Prisma.png" />&nbsp;&nbsp;&nbsp;Prisma
+- <img style="height: auto; width: 30px;" src="images/Typescript.png" />&nbsp;&nbsp;&nbsp;Typescript
