@@ -1,9 +1,9 @@
-### Frontend
+### Tools
 - <img style="height: auto; width: 30px;" src="images/ESLint.png" />&nbsp;&nbsp;&nbsp;ESLint
 - <img style="height: auto; width: 30px;" src="images/Typescript.png" />&nbsp;&nbsp;&nbsp;Typescript
 
 ### Frontend
-- <img style="height: auto; width: 30px;" src="images/ESLint.png" />&nbsp;&nbsp;&nbsp;ESLint
+- <img style="height: auto; width: 30px;" src="images/React.png" />&nbsp;&nbsp;&nbsp;React
 
 ### Backend
 - <img style="height: auto; width: 30px;" src="images/Node.png" />&nbsp;&nbsp;&nbsp;Node
