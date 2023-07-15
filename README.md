@@ -2,7 +2,7 @@
 - <img style="height: auto; width: 30px;" src="images/Typescript.png" />&nbsp;&nbsp;&nbsp;Typescript
 - <img style="height: auto; width: 30px;" src="images/ESLint.png" />&nbsp;&nbsp;&nbsp;ESLint
 - <img style="height: auto; width: 30px;" src="images/Prettier.png" />&nbsp;&nbsp;&nbsp;Prettier
-- 🐶&nbsp;&nbsp;&nbsp;Husky
+- <img style="height: auto; width: 30px;" src="images/Husky.png" />&nbsp;&nbsp;&nbsp;Husky
 
 ### Frontend
 - <img style="height: auto; width: 30px;" src="images/HTML.png" />&nbsp;&nbsp;&nbsp;HTML
