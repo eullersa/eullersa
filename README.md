@@ -1,6 +1,7 @@
 ### Tools
 - <img style="height: auto; width: 30px;" src="images/Typescript.png" />&nbsp;&nbsp;&nbsp;Typescript
 - <img style="height: auto; width: 30px;" src="images/ESLint.png" />&nbsp;&nbsp;&nbsp;ESLint
+- 🐶&nbsp;&nbsp;&nbsp;Husky
 
 ### Frontend
 - <img style="height: auto; width: 30px;" src="images/HTML.png" />&nbsp;&nbsp;&nbsp;HTML
