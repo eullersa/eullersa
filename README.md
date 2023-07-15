@@ -1,4 +1,4 @@
-### Backend
+### Frontend
 - <img style="height: auto; width: 30px;" src="images/Typescript.png" />&nbsp;&nbsp;&nbsp;Typescript
 
 ### Backend
