@@ -12,7 +12,7 @@
 
 ### Backend
 - <img style="height: auto; width: 30px;" src="images/Node.png" />&nbsp;&nbsp;&nbsp;Node
-- <img style="height: auto; width: 30px;" src="images/Express.png" />&nbsp;&nbsp;&nbsp;Express
+- <img style="height: auto; width: 30px;" src="images/Expressjs.png" />&nbsp;&nbsp;&nbsp;Express
 - <img style="height: auto; width: 30px;" src="images/MongoDB.png" />&nbsp;&nbsp;&nbsp;MongoDB
 - <img style="height: auto; width: 30px;" src="images/GraphQL.png" />&nbsp;&nbsp;&nbsp;GraphQL
 - <img style="height: auto; width: 30px;" src="images/Fastify.png" />&nbsp;&nbsp;&nbsp;Fastify
