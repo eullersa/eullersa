@@ -1,5 +1,5 @@
 ### Frontend
-- <img style="height: auto; width: 30px;" src="images/Typescript.png" />&nbsp;&nbsp;&nbsp;Typescript
+- <img style="height: auto; width: 30px;" src="images/ESLint.png" />&nbsp;&nbsp;&nbsp;ESLint
 
 ### Backend
 - <img style="height: auto; width: 30px;" src="images/Node.png" />&nbsp;&nbsp;&nbsp;Node
