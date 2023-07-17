@@ -17,5 +17,6 @@
 - <img style="height: auto; width: 30px;" src="images/MySQL.png" />&nbsp;&nbsp;&nbsp;MySQL
 - <img style="height: auto; width: 30px;" src="images/MongoDB.png" />&nbsp;&nbsp;&nbsp;MongoDB
 - <img style="height: auto; width: 30px;" src="images/GraphQL.png" />&nbsp;&nbsp;&nbsp;GraphQL
+- <img style="height: auto; width: 30px;" src="images/Firebase.png" />&nbsp;&nbsp;&nbsp;Firebase
 - <img style="height: auto; width: 30px;" src="images/Fastify.png" />&nbsp;&nbsp;&nbsp;Fastify
 - <img style="height: auto; width: 30px;" src="images/Prisma.png" />&nbsp;&nbsp;&nbsp;Prisma
